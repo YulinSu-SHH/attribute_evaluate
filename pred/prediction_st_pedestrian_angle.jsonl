@@ -1,0 +1,5 @@
+{"image_id": "0.jpg", "attribute": "prediction_st_pedestrian_angle", "labels": ["st_front", "st_side", "st_back"], "pred": [0.33, 0.1, 0.3]} 
+{"image_id": "1.jpg", "attribute": "prediction_st_pedestrian_angle", "labels": ["st_front", "st_side", "st_back"], "pred": [0.1, 0.1, 0.4]} 
+{"image_id": "2.jpg", "attribute": "prediction_st_pedestrian_angle", "labels": ["st_front", "st_side", "st_back"], "pred": [0.3, 0.1, 0.6]} 
+{"image_id": "3.jpg", "attribute": "prediction_st_pedestrian_angle", "labels": ["st_front", "st_side", "st_back"], "pred": [0.1, 0.12, 1]} 
+{"image_id": "4.jpg", "attribute": "prediction_st_pedestrian_angle", "labels": ["st_front", "st_side", "st_back"], "pred": [0.21, 1, 0.33]} 

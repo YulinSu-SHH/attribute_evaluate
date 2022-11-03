@@ -1,0 +1,4 @@
+attribute,labels,top1,top3,precision,recall,f1
+prediction_st_pedestrian_angle,"['st_front', 'st_side', 'st_back']",60.0,100.0,77.78,77.78,66.67
+gt_gender_code,"['male', 'female', 'gender_code_agnostic']",80.0,100.0,88.89,83.33,82.22
+gt_st_fishing,"['st_fishing_wo', 'st_fishing', 'a1', 'a2', 'a3']",60.0,80.0,40.0,40.0,40.0

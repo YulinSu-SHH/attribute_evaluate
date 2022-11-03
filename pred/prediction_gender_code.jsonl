@@ -1,0 +1,5 @@
+{"image_id": "0.jpg", "attribute": "gt_gender_code", "labels": ["male", "female", "gender_code_agnostic"], "pred": [0.12, 0.34, 0.66]}
+{"image_id": "1.jpg", "attribute": "gt_gender_code", "labels": ["male", "female", "gender_code_agnostic"], "pred": [0.11, 0.67, 0.2]} 
+{"image_id": "2.jpg", "attribute": "gt_gender_code", "labels": ["male", "female", "gender_code_agnostic"], "pred": [0.99, 0.3, 0.1]}  
+{"image_id": "3.jpg", "attribute": "gt_gender_code", "labels": ["male", "female", "gender_code_agnostic"], "pred": [0.2, 0.88, 0.1]}   
+{"image_id": "4.jpg", "attribute": "gt_gender_code", "labels": ["male", "female", "gender_code_agnostic"], "pred": [0.43, 0.8, 0.2]}   
